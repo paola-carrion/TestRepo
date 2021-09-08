@@ -1,2 +1,2 @@
 # TestRepo
-test connexion between GitHub and R
+“This is a line from RStudio”
